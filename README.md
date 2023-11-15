@@ -5,7 +5,7 @@ This program implements the minimax algorithm to determine the optimal strategy 
 
 To run the program, follow these steps:
 
-1. Save the code as `adversarialpy`.
+1. Save the code as `adversarial.py`.
 2. Open a terminal window and navigate to the directory where you saved the code.
 3. Run the following command:
 
